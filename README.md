@@ -1,94 +1,176 @@
-# Habban — Email Marketing Portfolio
+<div align="center">
 
-## Email Marketing Specialist | Klaviyo
+# Hi, I'm Habban 👋
 
-I’m an Email Marketing Specialist focused on lifecycle marketing, customer retention, segmentation, campaigns, and automated email flows for eCommerce and DTC brands.
+### Email Marketing Specialist | Klaviyo Specialist
 
-I work primarily with **Klaviyo** and have hands-on experience building lifecycle programs designed around customer behavior and the buying journey.
+<img src="https://avatars.githubusercontent.com/u/331053451?v=4" width="140" alt="Habban's GitHub profile picture" />
 
-> **Portfolio note:** The projects in this repository are a mix of hands-on practice work and portfolio case studies. Where a project uses a practice brand, it is clearly identified. No client-confidential data or fabricated performance results are presented.
+<p>
+  I build customer-focused email journeys, lifecycle automations, and retention campaigns for eCommerce & DTC brands.
+</p>
 
----
+<p>
+  <a href="https://github.com/habban-lgtm/habban-email-marketing-portfolio">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github" alt="GitHub Portfolio" />
+  </a>
+  <img src="https://img.shields.io/badge/Klaviyo-Email%20Marketing-1E1E1E?style=for-the-badge" alt="Klaviyo" />
+  <img src="https://img.shields.io/badge/Lifecycle-Marketing-6A5ACD?style=for-the-badge" alt="Lifecycle Marketing" />
+</p>
 
-## What I Do
-
-- Lifecycle & retention email marketing
-- Klaviyo flow strategy and implementation
-- Campaign planning and execution
-- Customer segmentation
-- Welcome, abandoned checkout/cart, winback and sunset flows
-- Email content and conversion-focused messaging
-- Basic email branding and template design
-- Customer journey mapping
-- Performance monitoring and optimization
-
-## Tools
-
-- **Klaviyo**
-- **Mailchimp**
-- **HubSpot**
-- Shopify integrations with Klaviyo
-- AI-assisted research, copy development and workflow planning
+</div>
 
 ---
 
-## Featured Portfolio Projects
+## 👋 About Me
 
-### 1. Pure Blossom — eCommerce Lifecycle Email Program
-A hands-on Klaviyo portfolio project covering brand setup, signup forms, campaigns and lifecycle automation.
+I'm an **Email Marketing Specialist** with a strong focus on **Klaviyo, lifecycle marketing, customer retention, segmentation, and eCommerce email automation**.
 
-**Built:**
+I approach email marketing through the customer journey: understanding what a customer has done, identifying what they need next, and building the right communication around that behavior.
+
+### What I work on
+
+- 📧 Email campaigns
+- ⚙️ Klaviyo lifecycle flows
+- 🧩 Customer segmentation
+- 🛒 Abandoned checkout & cart recovery
+- 🌱 Welcome & onboarding journeys
+- 🔄 Winback & reactivation
+- 🧹 Sunset & list hygiene
+- 🎯 Retention-focused messaging
+- 🎨 Email branding & content structure
+
+---
+
+## 🛠️ Tools & Skills
+
+| Category | Tools / Skills |
+|---|---|
+| **Email Marketing** | Klaviyo, Mailchimp, HubSpot |
+| **Lifecycle** | Welcome, Abandoned Checkout, Abandoned Cart, Winback, Sunset |
+| **Segmentation** | Behavioral, engagement, purchase-based audiences |
+| **eCommerce** | Shopify + Klaviyo integration |
+| **Strategy** | Customer journey mapping, retention, reactivation |
+| **Optimization** | Campaign monitoring, testing, audience refinement |
+
+---
+
+## 🚀 Featured Portfolio Work
+
+### 🌸 Pure Blossom — Klaviyo Lifecycle Project
+
+A hands-on eCommerce portfolio project demonstrating how I build a complete customer lifecycle inside Klaviyo.
+
+**Included:**
 - Welcome Flow
 - Abandoned Checkout Flow
 - Abandoned Cart Flow
 - Winback Flow
 - Sunset Flow
-- Signup form and welcome incentive
-- Email branding and reusable content structure
+- Signup form & welcome incentive
+- Brand setup and email structure
 
-[View project →](projects/pure-blossom.md)
+👉 **[View the Pure Blossom Case Study](projects/pure-blossom.md)**
 
-### 2. Klaviyo Lifecycle Flow Strategy
-A framework showing how I map customer behavior to lifecycle automation, including acquisition, conversion, retention and reactivation stages.
-
-[View strategy →](projects/lifecycle-flow-strategy.md)
-
-### 3. Customer Segmentation & Campaign Strategy
-A practical approach to using customer behavior, engagement and purchase history to create relevant campaign audiences.
-
-[View strategy →](projects/segmentation-campaign-strategy.md)
+> Pure Blossom is a practice portfolio brand. No fabricated client revenue or performance results are presented.
 
 ---
 
-## My Approach
+### 🔄 Lifecycle Flow Strategy
 
-I start with the customer journey rather than simply creating emails.
+A practical framework for connecting customer behavior with the right automation.
 
-**Discover → Subscribe → Welcome → Consider → Purchase → Repeat Purchase → Reactivation**
+**Journey:**
 
-For each stage, I consider:
+`Subscriber → Welcome → Consideration → Purchase → Retention → Reactivation`
 
-1. What is the customer doing?
-2. What information or motivation do they need next?
-3. What segment should receive the message?
-4. Should the communication be automated or campaign-based?
-5. What should be monitored after launch?
-
-This helps keep email marketing relevant, behavior-based and aligned with business goals.
+👉 **[View Lifecycle Strategy](projects/lifecycle-flow-strategy.md)**
 
 ---
 
-## About Me
+### 🎯 Segmentation & Campaign Strategy
+
+A practical approach to turning customer behavior and purchase history into more relevant campaign audiences.
+
+👉 **[View Segmentation Strategy](projects/segmentation-campaign-strategy.md)**
+
+---
+
+## 🧠 How I Think About Email Marketing
+
+> **The goal isn't to send more emails.  
+> The goal is to send the right message to the right customer at the right stage.**
+
+My workflow is simple:
+
+**Customer Behavior → Audience → Message → Automation/Campaign → Measurement → Optimization**
+
+This helps keep lifecycle marketing relevant instead of treating every subscriber the same.
+
+---
+
+## 📊 Lifecycle Marketing Framework
+
+```text
+                 CUSTOMER JOURNEY
+
+        ┌───────────────┐
+        │   DISCOVERY   │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │  SUBSCRIPTION │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │    WELCOME    │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │ CONSIDERATION │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │    PURCHASE   │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │    RETENTION  │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │  REACTIVATION │
+        └───────────────┘
+```
+
+---
+
+## 💼 What I'm Looking For
+
+I'm interested in opportunities where I can contribute to:
+
+- Email Marketing
+- Klaviyo
+- CRM & Lifecycle Marketing
+- Customer Retention
+- eCommerce / DTC Marketing
+- Marketing Automation
+
+---
+
+## 📫 Let's Connect
 
 **Habban**  
-Email Marketing Specialist | Klaviyo
+*Email Marketing Specialist | Klaviyo*
 
-I’m currently building my career around lifecycle and retention marketing, with a strong focus on practical Klaviyo execution and eCommerce customer journeys.
-
-**Open to:** Email Marketing Specialist, Klaviyo Specialist, CRM & Lifecycle Marketing opportunities.
+If you're looking for someone who can combine **hands-on Klaviyo execution with customer-journey thinking**, feel free to connect with me.
 
 ---
 
-## Portfolio Disclaimer
+<div align="center">
 
-This repository is intended to demonstrate my strategy, execution and understanding of email marketing. Practice-brand projects are not presented as real client results, and no confidential client information is included.
+### Thanks for visiting my portfolio! 🚀
+
+⭐ Explore the projects above to see my approach to lifecycle email marketing.
+
+</div>
