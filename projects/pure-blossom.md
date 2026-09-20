@@ -1,18 +1,18 @@
-# Pure Blossom — Klaviyo Lifecycle Marketing Project
+# Pure Blossom — Klaviyo Lifecycle Marketing Client Project
 
-**Project type:** Hands-on portfolio project  
+**Project type:** Real client project  
 **Platform:** Klaviyo  
-**Brand:** Pure Blossom — practice eCommerce brand
+**Brand:** Pure Blossom — eCommerce brand
 
-## Project Objective
+## Project Overview
 
-The goal of this project was to build a practical lifecycle email marketing system for an eCommerce brand and demonstrate how different customer behaviors can trigger relevant automated communications.
+Pure Blossom was a client project focused on building and implementing a structured lifecycle email marketing system in Klaviyo.
 
-The project covered the customer journey from newsletter signup through purchase, repeat engagement and reactivation.
+The work covered the customer journey from newsletter signup through purchase, repeat engagement, and reactivation. I focused on creating practical automations that matched customer behavior and the brand's communication style.
 
 ## Brand & Email Setup
 
-I created a simple brand system for Pure Blossom and applied it across the Klaviyo setup.
+I created and configured the email marketing foundation for Pure Blossom in Klaviyo.
 
 **Included:**
 - Logo and brand colors
@@ -22,6 +22,7 @@ I created a simple brand system for Pure Blossom and applied it across the Klavi
 - Brand voice/content direction
 - Signup form
 - Welcome incentive
+- Newsletter list setup
 
 The signup form was connected to the **Pure Blossom Newsletter** list with a welcome incentive.
 
@@ -36,7 +37,7 @@ The signup form was connected to the **Pure Blossom Newsletter** list with a wel
 2. Product and value-focused email
 3. Offer / purchase incentive
 
-**Purpose:** Introduce the brand, build initial awareness and encourage the first purchase.
+**Purpose:** Introduce the brand, build initial awareness, and encourage the first purchase.
 
 ---
 
@@ -55,7 +56,7 @@ The signup form was connected to the **Pure Blossom Newsletter** list with a wel
 
 ### Abandoned Cart Flow
 
-**Trigger:** Customer adds a product to cart but does not complete the purchase.
+**Trigger:** Customer adds a product to cart but does not complete the transaction.
 
 **Sequence:**
 1. Delay
@@ -90,16 +91,23 @@ The signup form was connected to the **Pure Blossom Newsletter** list with a wel
 
 **Purpose:** Protect list quality while giving inactive subscribers a final opportunity to re-engage.
 
-## What This Project Demonstrates
+## What I Implemented
 
 - Klaviyo flow architecture
 - Event-based automation
-- Customer lifecycle thinking
-- Basic segmentation logic
+- Customer lifecycle journeys
+- Segmentation logic
 - Email sequence planning
 - eCommerce retention strategy
 - Brand-consistent email setup
+- Shopify + Klaviyo integration
 
-## Important Note
+## Project Scope
 
-Pure Blossom is a **practice portfolio brand**. The project demonstrates my hands-on process and Klaviyo implementation skills. It does not represent a real client account, and I have not added fabricated revenue, conversion or campaign-performance numbers.
+My work on this project focused on the **Klaviyo/email marketing side**, including lifecycle strategy, flow setup, segmentation logic, signup capture, and email structure.
+
+## Results & Confidentiality
+
+Performance and revenue figures are not disclosed in this portfolio case study.
+
+This case study focuses on the work I personally implemented and the lifecycle marketing approach used for the client.
