@@ -57,9 +57,9 @@ I approach email marketing through the customer journey: understanding what a cu
 
 ## 🚀 Featured Portfolio Work
 
-### 🌸 Pure Blossom — Klaviyo Lifecycle Project
+### 🌸 Pure Blossom — Klaviyo Lifecycle Marketing
 
-A hands-on eCommerce portfolio project demonstrating how I build a complete customer lifecycle inside Klaviyo.
+A real client project demonstrating how I planned and implemented a structured customer lifecycle inside Klaviyo for an eCommerce brand.
 
 **Included:**
 - Welcome Flow
@@ -69,10 +69,11 @@ A hands-on eCommerce portfolio project demonstrating how I build a complete cust
 - Sunset Flow
 - Signup form & welcome incentive
 - Brand setup and email structure
+- Customer lifecycle and segmentation logic
 
 👉 **[View the Pure Blossom Case Study](projects/pure-blossom.md)**
 
-> Pure Blossom is a practice portfolio brand. No fabricated client revenue or performance results are presented.
+> Performance and revenue figures are not disclosed in this portfolio case study.
 
 ---
 
