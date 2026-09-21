@@ -111,3 +111,11 @@ My work on this project focused on the **Klaviyo/email marketing side**, includi
 Performance and revenue figures are not disclosed in this portfolio case study.
 
 This case study focuses on the work I personally implemented and the lifecycle marketing approach used for the client.
+
+## Flow Visual Evidence
+
+A visual overview of the live Pure Blossom lifecycle flows is available in the portfolio assets folder:
+
+- [Pure Blossom Flow Visual Evidence](../assets/pure-blossom-flows/README.md)
+
+**Client privacy note:** Performance results, conversion data, revenue figures, and customer-level information are intentionally not shown in the visual evidence because of client confidentiality and privacy requirements. The visuals are included to demonstrate the flow architecture, lifecycle strategy, automation structure, and implementation work.
